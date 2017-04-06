@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "services.html",
+    "currentPage": "index.html",
     "name": "Turnkey FIre",
     "theme": {
       "name": "mobirise3",
@@ -160,7 +160,7 @@
           },
           "title": "",
           "text": "Home of the Fire Consultants.&nbsp;<br>We offer total Turnkey Projects to our clients from project management to supply, servicing and installation.<span style=\"font-size: 1.5rem; line-height: 1.5;\">&nbsp;</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Our Products</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Our Services</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Training Offered&nbsp;</a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Our Products</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"services.html\" data-toolbar=\"-mbrBtnMove\">Our Services</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Training Offered&nbsp;</a>  "
         },
         {
           "_name": "footer1",
