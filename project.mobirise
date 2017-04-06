@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "aboutus.html",
+    "currentPage": "services.html",
     "name": "Turnkey FIre",
     "theme": {
       "name": "mobirise3",
@@ -553,9 +553,10 @@
               "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title1": "Project managment&nbsp;",
@@ -569,9 +570,10 @@
               "name": "setting",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title2": "Servicing of Fire Fighting Equipment",
@@ -585,9 +587,10 @@
               "name": "like",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title3": "Planning &amp; Implementing Fire Evacuation plans &amp; drills",
@@ -601,9 +604,10 @@
               "name": "growing-chart",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title4": "Fire risk assessments",
@@ -687,9 +691,10 @@
               "name": "protect",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title1": "Issuing of Complaince Certificates",
@@ -703,9 +708,10 @@
               "name": "setting3",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title2": "Installation of systems",
@@ -719,9 +725,10 @@
               "name": "touch",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title3": "Technical advice&nbsp;",
@@ -730,13 +737,15 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
               "name": "linegraph",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "index.html",
               "size": 0,
               "color": "#fff",
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "title4": "Maintenance of systems",
